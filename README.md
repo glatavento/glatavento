@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm using Codewars to practice Haskell. Join us!
+- 🔭 I'm using Codewars to practice Haskell. Now join us!
 
 [![https://www.codewars.com](https://www.codewars.com/users/glatavento/badges/large)](https://www.codewars.com)
 
