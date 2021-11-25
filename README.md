@@ -1,8 +1,8 @@
 <!--
 ### Hi there 👋
--->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glatavento&count_private=true&show_icons=true)
+-->
 
 - 🔭 I'm using Codewars to practice Haskell. Now join us!
 
