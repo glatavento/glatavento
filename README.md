@@ -1,12 +1,5 @@
-<!--
-### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glatavento&count_private=true&show_icons=true)
--->
-
-- 🔭 I'm using Codewars to practice Haskell. Now join us!
-
-[![https://www.codewars.com](https://www.codewars.com/users/glatavento/badges/large)](https://www.codewars.com)
+![contribution-grid-snake](https://raw.githubusercontent.com/glatavento/glatavento/output/github-contribution-grid-snake.svg)
 
 <!--
 **glatavento/glatavento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
