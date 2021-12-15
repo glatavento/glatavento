@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glatavento&show_icons=true&count_private=true&hide=stars" />
+</p>
+  
 ![contribution-grid-snake](https://raw.githubusercontent.com/glatavento/glatavento/output/github-contribution-grid-snake.svg)
 
 <!--
