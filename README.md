@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glatavento&show_icons=true&count_private=true&hide=stars" />
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#sparkling_heart-%E6%94%AF%E6%8C%81%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE">
+    <img src="https://github-readme-stats.vercel.app/api?username=glatavento&show_icons=true&count_private=true&hide=stars" />
+  </a>
 </p>
   
 ![contribution-grid-snake](https://raw.githubusercontent.com/glatavento/glatavento/output/github-contribution-grid-snake.svg)
